@@ -20,4 +20,4 @@ CourseCareers info &amp; IT Background
 
 [twitter]: https://twitter.com/Josh
 [instagram]: https://www.instagram.com/Josh
-[linkedin]: https://linkedin.com/in/Josh
+[linkedin]: https://www.linkedin.com/in/rashawn-conner-00a2868a/
