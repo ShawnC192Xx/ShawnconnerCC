@@ -5,7 +5,7 @@ CourseCareers info &amp; IT Background
 <h2>👨‍💻 Information Technology Projects / Samples:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [VPN Configuration & Setup](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [Secure Access File/Permissiona](https://github.com/ShawnC192Xx/Secure_Access)
   - [VPN Configuration & Setup](https://github.com/joshmadakorcc/osticket-prereqs)
   - [Building a virtual Machine](https://github.com/joshmadakorcc/post-install-config)
   - [Network Traffic Breakdoen](https://github.com/joshmadakorcc/ticket-lifecycle)
