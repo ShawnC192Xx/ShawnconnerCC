@@ -4,10 +4,10 @@ CourseCareers info &amp; IT Background
 
 <h2>👨‍💻 Information Technology Projects / Samples:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
+- <b>Windows/ Mac OS /Linux  </b>
   - [Secure Access File/Permissiona](https://github.com/ShawnC192Xx/Secure_Access)
   - [VPN Configuration & Setup](https://github.com/joshmadakorcc/osticket-prereqs)
-  - [Building a virtual Machine](https://github.com/joshmadakorcc/post-install-config)
+  - [Building a virtual Machine-Mac OS](https://github.com/ShawnC192Xx/Azure_Intro-Mac-OS/tree/main)
   - [Network Traffic Breakdown](https://github.com/ShawnC192Xx/Network-traffic-Analysis)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ShawnC192Xx/AD_SetupLab)
