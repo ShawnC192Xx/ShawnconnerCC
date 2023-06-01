@@ -8,10 +8,10 @@ CourseCareers info &amp; IT Background
   - [Secure Access File/Permissiona](https://github.com/ShawnC192Xx/Secure_Access)
   - [VPN Configuration & Setup](https://github.com/joshmadakorcc/osticket-prereqs)
   - [Building a virtual Machine](https://github.com/joshmadakorcc/post-install-config)
-  - [Network Traffic Breakdoen](https://github.com/joshmadakorcc/ticket-lifecycle)
+  - [Network Traffic Breakdown](https://github.com/ShawnC192Xx/Network-traffic-Analysis)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ShawnC192Xx/AD_SetupLab)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ShawnC192Xx/Network_Traffic)
 
 <h2>🤳Connect with me:</h2>
 
