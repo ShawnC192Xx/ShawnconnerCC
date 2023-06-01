@@ -10,7 +10,7 @@ CourseCareers info &amp; IT Background
   - [Building a virtual Machine](https://github.com/joshmadakorcc/post-install-config)
   - [Network Traffic Breakdoen](https://github.com/joshmadakorcc/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ShawnC192Xx/AD_SetupLab)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
